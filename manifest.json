@@ -1,0 +1,10 @@
+{
+    "id": "github-repository-manager",
+    "name": "GitHub Repository Manager",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Clone and manage GitHub/GitLab repositories in your vault with automatic README linking",
+    "author": "fs1",
+    "authorUrl": "",
+    "isDesktopOnly": true
+}
